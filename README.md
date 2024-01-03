@@ -32,7 +32,7 @@ cp .env.example .env
 
 ### Starting the Server
 
-To start the server on localhost, run:
+To start the server, run:
 
 ```bash
 npm run dev
